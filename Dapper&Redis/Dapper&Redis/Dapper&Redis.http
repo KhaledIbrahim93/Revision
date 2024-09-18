@@ -1,0 +1,6 @@
+@Dapper_Redis_HostAddress = http://localhost:5140
+
+GET {{Dapper_Redis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
